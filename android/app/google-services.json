@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "289789854474",
+    "project_id": "singin-flutter",
+    "storage_bucket": "singin-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289789854474:android:055471053128204fa3f0f3",
+        "android_client_info": {
+          "package_name": "com.example.singinwithgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289789854474-8f8u6ql9pr6b5t531856897icov943vd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.singinwithgoogle",
+            "certificate_hash": "a6f82b54755cf9f2010ba62762ff677e9acd8b01"
+          }
+        },
+        {
+          "client_id": "289789854474-5pijgapskgiqv8eevf6b55ufv67prn0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFxtBF9fmVfWANkubhPAFB_QVvIQiTL0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289789854474-5pijgapskgiqv8eevf6b55ufv67prn0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
